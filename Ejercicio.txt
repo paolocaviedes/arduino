@@ -1,0 +1,9 @@
+#Ejercicio
+
+Pantalla #Escoge 1 o 2#
+
+2 pulsantes conectados 
+
+Cuando presione pulsante 1, mensaje cambia y sale Escogiste 1
+
+Cuando presione pulsante 2, mensaje cambia y sale Escogiste 2
